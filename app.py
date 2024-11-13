@@ -73,7 +73,7 @@ def send_email():
 
     try:
         # Set up the email server (using Gmail in this example)
-        sender_email = "anurag2k4adi@gmail.com"  # Change this to your email
+        sender_email = "your-mail"  # Change this to your email
         sender_password = "yxfg ihen ofxa fjrx"  # Change this to your email password
         
         # Create the email message
